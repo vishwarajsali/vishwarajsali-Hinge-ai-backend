@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: hinge-ai-backend
+  ai:
+    openai:
+      api-key: ${SPRING_AI_OPENAI_API_KEY}
+
+
