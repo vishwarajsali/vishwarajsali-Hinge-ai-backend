@@ -1,0 +1,14 @@
+package com.vish.hinge_ai_backend.profiles.enums;
+
+public enum Ethnicity {
+    ASIAN,
+    BLACK_OR_AFRICAN_AMERICAN,
+    HISPANIC_OR_LATINO,
+    WHITE,
+    NATIVE_AMERICAN_OR_ALASKA_NATIVE,
+    NATIVE_HAWAIIAN_OR_OTHER_PACIFIC_ISLANDER,
+    MIDDLE_EASTERN_OR_NORTH_AFRICAN,
+    TWO_OR_MORE_RACES,
+    OTHER,
+    PREFER_NOT_TO_SAY
+}
